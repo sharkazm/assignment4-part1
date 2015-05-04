@@ -1,1 +1,11 @@
+Start: Fri, 1 May 2015, 11:00 am
+End: Fri, 1 May 2015 2:00 pm
+Tasks: Extensive reading and review of lectures.  Referenced PHP manual.  Completed multtable.php 
 
+Start:  Sun, 3 May 2013, 3:00 pm
+End:  Sun, 3 May 2015, 5:00 pm
+Tasks:  Completed loopback.php
+
+Start: Mon, 4 May 2015 9:00 am
+End: Mon, 4 May 2015 11:45 am
+Tasks: Completed login.php, content1.php and content2.php
